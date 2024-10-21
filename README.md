@@ -1,3 +1,5 @@
+You can check this [demo](https://kulikovee.github.io/galaga-threejs/)
+
 # Galaga3D
 This project is a skeleton for the multiplayer games.
 
@@ -26,5 +28,3 @@ This project does NOT provides:
 * Animation control
 * Fire and AI sharing (you cannot help other players with killing bad guys)
 * Chat & Player naming
-
-You can check this [demo](https://kulikovee.github.io/galaga-threejs/)
