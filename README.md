@@ -1,4 +1,5 @@
-You can check this [demo](https://kulikovee.github.io/galaga-threejs/)
+# Demo
+https://kulikovee.github.io/galaga-threejs/
 
 # Galaga3D
 This project is a skeleton for the multiplayer games.
